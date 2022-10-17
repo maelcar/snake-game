@@ -1,7 +1,7 @@
 # snake-game
 
 ## Description
-Snake game. Technologies I have used: JavaScript.
+Snake game. Technologies I have used: JavaScript, HTML.
 
 
 ## Autor
@@ -11,7 +11,7 @@ Snake game. Technologies I have used: JavaScript.
 * [Linkedin]()
 
 ## View App online
-[SnakeGame]()
+[SnakeGame](https://maelcar.github.io/snake-game/)
 
 
 
