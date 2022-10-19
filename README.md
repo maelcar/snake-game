@@ -7,8 +7,8 @@ Snake game. Technologies I have used: JavaScript, HTML.
 ## Autor
 **Manuel Elías Rey Álvarez (@maelcar)**
 
-* [Portfolio web]()
-* [Linkedin]()
+* [Portfolio web](https://www.maelcar.com)
+* [Linkedin](https://www.linkedin.com/in/maelcar)
 
 ## View App online
 [SnakeGame](https://maelcar.github.io/snake-game/)
